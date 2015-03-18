@@ -4,9 +4,9 @@
 	<deviceVariant value="Cortex M.TM4C123GH6PM"/>
 	<deviceFamily value="TMS470"/>
 	<deviceEndianness value="little"/>
-	<codegenToolVersion value="5.1.9"/>
+	<codegenToolVersion value="5.2.2"/>
 	<isElfFormat value="true"/>
 	<rts value="libc.a"/>
 	<createSlaveProjects value=""/>
-	<templateProperties value="id=org.eclipse.rtsc.project.templates.EmptyRtscApplication,buildProfile=release,isHybrid=true,"/>
+	<templateProperties value="id=com.ti.rtsc.TIRTOStivac.example_10,type=rtsc,products=com.ti.rtsc.TIRTOStivac,xdcToolsVersion=3.30.04.52_core,platform=ti.platforms.tiva:TM4C123GH6PM,buildProfile=release,isHybrid=true,configuroOptions=--compileOptions &quot;${COMPILER_FLAGS} &quot;,"/>
 </projectOptions>
